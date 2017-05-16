@@ -11,17 +11,17 @@ Instructions:
 
 Notes:
 
-  Error values for each fit value (location, intensity, and FWHM) can be seen after fitting by pressing the 'Errors' radio button.
+  1. Error values for each fit value (location, intensity, and FWHM) can be seen after fitting by pressing the 'Errors' radio button.
 
-  The specific peaks chosen here represent only the primary modes seen in the literature. A variety of other modes exist and can be customized by changing the 'MatsLab2d.mlapp' source code (Lines 109-136) or by using my 'Raman-Peak-Analysis-for-2D-Materials' repository.
+  2. The specific peaks chosen here represent only the primary modes seen in the literature. A variety of other modes exist and can be customized by changing the 'MatsLab2d.mlapp' source code (Lines 109-136) or by using my 'Raman-Peak-Analysis-for-2D-Materials' repository.
 
 
 References:
 
-  Graphene - Malard et al. 2009, Phys. Rep. 473:5.
+  1. Graphene - Malard et al. 2009, Phys. Rep. 473:5.
 
-  MoS2 - Ramana et al. 2008, Geochem. Trans. 9:8.
+  2. MoS2 - Ramana et al. 2008, Geochem. Trans. 9:8.
 
-  Phosphorene - Brent et al. 2014 Chem. Comm. 50:13338.
+  3. Phosphorene - Brent et al. 2014 Chem. Comm. 50:13338.
   
-  WS2 - Berkdemir et al. 2013 Sci. Rep. 3:1755.
+  4. WS2 - Berkdemir et al. 2013 Sci. Rep. 3:1755.
