@@ -19,6 +19,7 @@ The specific peaks chosen here represent only the primary modes seen in the lite
 References:
 
 Graphene - Malard et al. 2009, Phys. Rep. 473:5.
+
 MoS2 - Ramana et al. 2008, Geochem. Trans. 9:8.
 Phosphorene - Brent et al. 2014 Chem. Comm. 50:13338.
 WS2 - Berkdemir et al. 2013 Sci. Rep. 3:1755.
